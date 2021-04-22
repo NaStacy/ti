@@ -1,6 +1,1 @@
-﻿  First-TI.cpp
-  cipher.cpp
-C:\Users\Lenovo\source\repos\ti\TI_1\First-TI\cipher.cpp(300,19): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\Lenovo\source\repos\ti\TI_1\First-TI\cipher.cpp(349,18): warning C4018: <: несоответствие типов со знаком и без знака
-  Создание кода...
-  First-TI.vcxproj -> C:\Users\Lenovo\source\repos\ti\TI_1\Debug\First-TI.exe
+﻿  First-TI.vcxproj -> C:\Users\Lenovo\source\repos\ti\ti\TI_1\Debug\First-TI.exe
