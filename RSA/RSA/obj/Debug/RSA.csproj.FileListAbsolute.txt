@@ -1,10 +1,10 @@
-C:\Users\Lenovo\source\repos\ti\ti\RSA\RSA\bin\Debug\protect_inf_LR1.exe.config
-C:\Users\Lenovo\source\repos\ti\ti\RSA\RSA\bin\Debug\protect_inf_LR1.exe
-C:\Users\Lenovo\source\repos\ti\ti\RSA\RSA\bin\Debug\protect_inf_LR1.pdb
 C:\Users\Lenovo\source\repos\ti\ti\RSA\RSA\obj\Debug\RSA.csprojAssemblyReference.cache
 C:\Users\Lenovo\source\repos\ti\ti\RSA\RSA\obj\Debug\protect_inf_LR1.Form1.resources
-C:\Users\Lenovo\source\repos\ti\ti\RSA\RSA\obj\Debug\protect_inf_LR1.Properties.Resources.resources
 C:\Users\Lenovo\source\repos\ti\ti\RSA\RSA\obj\Debug\RSA.csproj.GenerateResource.cache
 C:\Users\Lenovo\source\repos\ti\ti\RSA\RSA\obj\Debug\RSA.csproj.CoreCompileInputs.cache
-C:\Users\Lenovo\source\repos\ti\ti\RSA\RSA\obj\Debug\protect_inf_LR1.exe
-C:\Users\Lenovo\source\repos\ti\ti\RSA\RSA\obj\Debug\protect_inf_LR1.pdb
+C:\Users\Lenovo\source\repos\ti\ti\RSA\RSA\bin\Debug\RSA.exe.config
+C:\Users\Lenovo\source\repos\ti\ti\RSA\RSA\bin\Debug\RSA.exe
+C:\Users\Lenovo\source\repos\ti\ti\RSA\RSA\bin\Debug\RSA.pdb
+C:\Users\Lenovo\source\repos\ti\ti\RSA\RSA\obj\Debug\RSA.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\ti\ti\RSA\RSA\obj\Debug\RSA.exe
+C:\Users\Lenovo\source\repos\ti\ti\RSA\RSA\obj\Debug\RSA.pdb
