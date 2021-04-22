@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\ti\ti\TI_2\TI_2\bin\Debug\TI_2.exe.config
+C:\Users\Lenovo\source\repos\ti\ti\TI_2\TI_2\bin\Debug\TI_2.exe
+C:\Users\Lenovo\source\repos\ti\ti\TI_2\TI_2\bin\Debug\TI_2.pdb
+C:\Users\Lenovo\source\repos\ti\ti\TI_2\TI_2\obj\Debug\TI_2.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\ti\ti\TI_2\TI_2\obj\Debug\TI_2.Form1.resources
+C:\Users\Lenovo\source\repos\ti\ti\TI_2\TI_2\obj\Debug\TI_2.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\ti\ti\TI_2\TI_2\obj\Debug\TI_2.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\ti\ti\TI_2\TI_2\obj\Debug\TI_2.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\ti\ti\TI_2\TI_2\obj\Debug\TI_2.exe
+C:\Users\Lenovo\source\repos\ti\ti\TI_2\TI_2\obj\Debug\TI_2.pdb
