@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "X5LY90RA5WpO+L/+IBRGEwUBvbR7/WDwAx979FoyxXYlIcXyO72ttq7HDyKYYVF5ebm1Rq2zhFcpSf2fcxLVDA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lenovo\\source\\repos\\ti\\ti\\TI3\\TI3\\TI3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
